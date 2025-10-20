@@ -1,0 +1,14 @@
+/mnt/c/Users/gabri/Documents/Rust/guessing_game/target/debug/deps/thiserror-0e518bfcf6b6fcaa.d: /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /mnt/c/Users/gabri/Documents/Rust/guessing_game/target/debug/build/thiserror-f0594dbf289cf5e4/out/private.rs
+
+/mnt/c/Users/gabri/Documents/Rust/guessing_game/target/debug/deps/libthiserror-0e518bfcf6b6fcaa.rlib: /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /mnt/c/Users/gabri/Documents/Rust/guessing_game/target/debug/build/thiserror-f0594dbf289cf5e4/out/private.rs
+
+/mnt/c/Users/gabri/Documents/Rust/guessing_game/target/debug/deps/libthiserror-0e518bfcf6b6fcaa.rmeta: /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /mnt/c/Users/gabri/Documents/Rust/guessing_game/target/debug/build/thiserror-f0594dbf289cf5e4/out/private.rs
+
+/home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs:
+/home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs:
+/home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs:
+/home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs:
+/home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs:
+/mnt/c/Users/gabri/Documents/Rust/guessing_game/target/debug/build/thiserror-f0594dbf289cf5e4/out/private.rs:
+
+# env-dep:OUT_DIR=/mnt/c/Users/gabri/Documents/Rust/guessing_game/target/debug/build/thiserror-f0594dbf289cf5e4/out

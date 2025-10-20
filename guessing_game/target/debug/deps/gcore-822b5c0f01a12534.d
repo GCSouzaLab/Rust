@@ -1,0 +1,12 @@
+/mnt/c/Users/gabri/Documents/Rust/guessing_game/target/debug/deps/gcore-822b5c0f01a12534.d: /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/lib.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/errors.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/exec.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/msg.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/prog.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/utils.rs
+
+/mnt/c/Users/gabri/Documents/Rust/guessing_game/target/debug/deps/libgcore-822b5c0f01a12534.rlib: /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/lib.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/errors.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/exec.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/msg.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/prog.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/utils.rs
+
+/mnt/c/Users/gabri/Documents/Rust/guessing_game/target/debug/deps/libgcore-822b5c0f01a12534.rmeta: /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/lib.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/errors.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/exec.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/msg.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/prog.rs /home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/utils.rs
+
+/home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/lib.rs:
+/home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/errors.rs:
+/home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/exec.rs:
+/home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/msg.rs:
+/home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/prog.rs:
+/home/gabriel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.2/src/utils.rs:
